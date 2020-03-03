@@ -1,5 +1,6 @@
-
-![WhatsappDev](https://lh3.googleusercontent.com/bYtqbOcTYOlgc6gqZ2rwb8lptHuwlNE75zYJu6Bn076-hTmvd96HH-6v7S0YUAAJXoJN);
+<p align="center">
+  <img src="https://lh3.googleusercontent.com/bYtqbOcTYOlgc6gqZ2rwb8lptHuwlNE75zYJu6Bn076-hTmvd96HH-6v7S0YUAAJXoJN.png" width="350" title="Whatsapp">
+</p>
 
 # Whatsapp Dev
 ### Introduction
